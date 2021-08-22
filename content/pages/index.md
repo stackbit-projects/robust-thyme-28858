@@ -311,15 +311,7 @@ sections:
     background_image: images/cta-background.png
     background_image_opacity: 50
   - type: grid_section
-    grid_items:
-      - title: Address
-        content: |-
-          1234 Some St.<br/>
-          Some City, ST 12345<br/>
-          [1-234-556-7890](tel:+12345567890)<br/>
-          [email@example.com](mailto:email@example.com)<br/>
-
-          **Time:** 9:30 AM to 3:30 PM
+    grid_items: []
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: large
