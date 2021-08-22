@@ -3,7 +3,11 @@ title: Home
 sections:
   - type: hero_section
     title: IPStress.in - BEST IP STRESSER & BOOTER
-    subtitle: Conference for Creative People
+    subtitle: >-
+      The best ip booter stresser in 2021. Can down any game server such as ovh,
+      nfo, fivem servers etc. Bypassing every protection such as cloudflare with
+      our blazingfast methods. Buy now and enjoy the strong power from our
+      botnets as well.
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
