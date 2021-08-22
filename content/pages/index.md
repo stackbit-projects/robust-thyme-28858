@@ -302,7 +302,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 15
   - type: cta_section
-    title: Current price is only $49. The price will increase soon!
+    title: Still not convinced on purchasing?
     actions:
       - label: Get tickets
         url: /thank-you
