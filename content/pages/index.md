@@ -13,6 +13,7 @@ sections:
     actions:
       - url: /about
         style: primary
+        label: Join today!
     align: center
     padding_top: large
     padding_bottom: large
