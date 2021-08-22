@@ -116,7 +116,7 @@ sections:
     background_image_opacity: 50
   - type: grid_section
     title: What People are Saying
-    subtitle: Previous event attendees
+    subtitle: ' '
     grid_items:
       - content: >-
           I've had a wonderful few days at Event Conf. So grateful to have been
