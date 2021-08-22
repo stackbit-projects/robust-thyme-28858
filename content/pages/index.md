@@ -9,7 +9,7 @@ sections:
       our blazingfast methods. Buy now and enjoy the strong power from our
       botnets as well.
     content: |
-      ##### Since 2019
+      #####   
     actions:
       - url: /about
         style: primary
