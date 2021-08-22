@@ -304,7 +304,7 @@ sections:
   - type: cta_section
     title: Still not convinced on purchasing?
     actions:
-      - label: Get tickets
+      - label: Cob
         url: /thank-you
         style: primary
         has_icon: true
