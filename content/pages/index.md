@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: "IPStress.in\_ \_ \_ \_ \_ \_ \_ \_ BEST IP STRESSER & BOOTER"
+    title: IPStress.in - BEST IP STRESSER & BOOTER
     subtitle: Conference for Creative People
     content: '**April 14 - 16, 2021**'
     actions:
