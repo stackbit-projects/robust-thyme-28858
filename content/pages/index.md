@@ -8,7 +8,8 @@ sections:
       nfo, fivem servers etc. Bypassing every protection such as cloudflare with
       our blazingfast methods. Buy now and enjoy the strong power from our
       botnets as well.
-    content: '**April 14 - 16, 2021**'
+    content: |
+      ****
     actions:
       - label: Get Your Ticket Today!
         url: /about
