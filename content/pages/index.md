@@ -11,8 +11,7 @@ sections:
     content: |
       ##### Since 2019
     actions:
-      - label: Get Your Ticket Today!
-        url: /about
+      - url: /about
         style: primary
     align: center
     padding_top: large
