@@ -9,7 +9,7 @@ sections:
       our blazingfast methods. Buy now and enjoy the strong power from our
       botnets as well.
     content: |
-      ****
+      ***
     actions:
       - label: Get Your Ticket Today!
         url: /about
